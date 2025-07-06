@@ -1,0 +1,14 @@
+{
+  "object_api_names": [
+    "Case",
+    "Opportunity"
+  ],
+  "fields_by_object": {
+    "Case": [
+       // formula field info without __c
+    ],
+    "Opportunity": [
+      // formula field info without __c
+    ]
+  }
+}
